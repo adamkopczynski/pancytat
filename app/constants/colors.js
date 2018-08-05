@@ -1,0 +1,6 @@
+export const primary = '#2980b9'
+export const green = '#6e8a50'
+export const red = '#ED4A6A'
+export const gray = '#cdcdcd'
+export const light = '#ecf0f1'
+export const dark = '#34495e'

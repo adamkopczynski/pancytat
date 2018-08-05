@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "name": "Pan Cytat",
+    "icon": "./app/images/icon.png",
+    "version": "0.0.3",
+    "slug": "pan-cytat",
+    "ios": {
+      "bundleIdentifier": "com.adamk.pancytat"
+    },
+    "android": {
+      "package": "com.adamk.pancytat"
+    }
+   }
+}
